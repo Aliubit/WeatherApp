@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  weather
+
+  Created by Syed Ali Haider on 5/18/20.
+  Copyright © 2020 Syed Ali Haider. All rights reserved.
+*/
+
+"no_internet"="broken internet connection";
+"no_results"="No results found";
+"loading_weather"="Loading weather forecast...";
+
+"weather"="Weather Forecast";
+"step1"="Weather forecast of multiple cities";
+"step2"="5-days 3 hour forecast of current city";
+
+"search_placeholder"="e.g. Karachi, Lahore";
+
+"min_temperature"="Min Temp:";
+"max_temperature"="Max Temp:";
+"wind_speed"="Wind Speed:";
+
+"no_location_access"="Access to location is denied";
+"access_location"="Access your location";
+"access_location_message"="'Weather' requires access to your location so you can check the weather forecast for your current city.";
+"allow"="Allow";
+
+"Cancel"="Cancel";
+"Ok"="Ok";
+
+"cities_messsage"="You should enter minimum 3 cities";
+"notify"="Notify";
